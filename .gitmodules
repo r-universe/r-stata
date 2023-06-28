@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "hchinamap"]
 	path = hchinamap
 	url = https://github.com/cran/hchinamap
-	shallow = true
-	registered = true
 [submodule "hpackedbubble"]
 	path = hpackedbubble
 	url = https://github.com/cran/hpackedbubble
-	shallow = true
-	registered = true
 [submodule "hwordcloud"]
 	path = hwordcloud
 	url = https://github.com/cran/hwordcloud
-	shallow = true
-	registered = true
 [submodule "sankeywheel"]
 	path = sankeywheel
 	url = https://github.com/cran/sankeywheel
-	shallow = true
-	registered = true
